@@ -1,0 +1,102 @@
+
+body {
+background-image: url(http://img.webme.com/pic/e/encuentrahoy/FondodelFondoMia.jpg)
+}
+
+.page-wrap {
+	width: 960px;
+	margin: 0 auto;	
+}
+
+.navbar {
+	text-align: center;
+	height: 100px;
+	border-radius: 1px;
+	border: solid;
+	border-color: #cccccc;
+	border-top: none; border-right: none; border-left: none;
+
+}
+.name {
+	box-sizing: border-box;
+	background-color: #4aaaa5;
+	height: 98px;
+	padding-top: 40px;
+	width: 255px;
+	font-size: 29px;
+	font-family: "Georgia", Times, Times New Roman, serif;
+
+}
+.menu {
+	padding-top: 20px;
+}
+.main-page {
+	border: solid;
+	border-radius: 2px;
+	border-color: #dddddd; 
+	margin-top: 50px;
+	background-color: #ffffff;
+}
+
+.sidemenu {
+	border: solid;
+	border-radius: 2px;
+	border-color: #dddddd;
+	margin-top: 50px;
+	background-color: #ffffff;
+	text-align: center;
+	padding-bottom: 40px;
+}
+.pull-left {
+	margin-right: 10px;
+}
+p {
+	
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 200%;
+	color: #777777;
+	font-size: 17px;
+}
+
+.footer {
+	text-align: center;
+	height: 100px;
+	background-color: #666666;
+	border-color: #cccccc;
+	border-color: #4aaaa5;
+	border-top-width: 10px;
+	border-bottom: none; border-right: none; border-left: none;
+	padding-bottom: 70px;
+
+}
+
+.image {
+	padding-bottom: 30px;
+	padding-top: 30px;
+	position: relative;
+}
+.box {
+	position: absolute;
+    width: 273px;
+    height: 60px;
+    background-color: #4aaaa5;
+    bottom: 40px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.submit {
+	margin-bottom: 50px;
+    background-color: #4aaaa5;
+    color: white;
+    box-sizing: border-box;
+    padding: 15px;
+    width: 100px;
+    border: none;
+    font-family: "Arial", 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20px;
+
+}
