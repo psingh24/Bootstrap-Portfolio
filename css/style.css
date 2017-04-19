@@ -6,6 +6,7 @@ background-image: url(http://img.webme.com/pic/e/encuentrahoy/FondodelFondoMia.j
 .page-wrap {
 	width: 960px;
 	margin: 0 auto;	
+	padding-bottom: 150px;
 }
 
 .navbar {
@@ -67,6 +68,9 @@ p {
 	border-top-width: 10px;
 	border-bottom: none; border-right: none; border-left: none;
 	padding-bottom: 70px;
+	position: fixed;	
+	bottom: 0;
+	width: 100%;
 
 }
 
