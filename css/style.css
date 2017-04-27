@@ -8,6 +8,14 @@ background-image: url(http://img.webme.com/pic/e/encuentrahoy/FondodelFondoMia.j
 	margin: 0 auto;	
 	padding-bottom: 150px;
 }
+@media screen and (max-width: 980px) {
+	.page-wrap {
+	width: 800px;
+	margin: 0 auto;	
+	padding-bottom: 150px;
+}
+
+}
 
 .navbar {
 	text-align: center;
